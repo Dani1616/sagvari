@@ -1,15 +1,15 @@
 .cim{
-    color: rgb(10, 10, 10);
+    color: rgb(255, 0, 0);
     margin: 40px;
     text-align: center;
 }
 a:link{
-    color: rgb(10, 10, 10);
+    color: rgb(0, 0, 255);
     text-decoration: blue;
 }
 a:visited{
     text-decoration: yellow;
-    color: rgb(10, 10, 10);
+    color: rgb(255, 255, 0);
 }
 #nev,#suli{
     text-align: center;
@@ -24,7 +24,7 @@ html, body{
     height: 80%;
 }
 body{
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(255, 190, 203);
     font-family: 'Poppins',sans-serif;
     font-weight: 400;
 }
